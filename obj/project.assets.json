@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Programer_o2\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotnetCore\\Commander\\Commander.csproj",
+      "projectUniqueName": "D:\\dotnetcore\\commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "D:\\DotnetCore\\Commander\\Commander.csproj",
-      "packagesPath": "C:\\Users\\Programer_o2\\.nuget\\packages\\",
-      "outputPath": "D:\\DotnetCore\\Commander\\obj\\",
+      "projectPath": "D:\\dotnetcore\\commander\\Commander.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "D:\\dotnetcore\\commander\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Programer_o2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

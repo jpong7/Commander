@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i5s8plEE6+uf/CSnzwNjP/eA65LqgBV+D68rN/TU/ufm9yyQnElVluGU9sfuJoGkgKkKVlFq1KddlDGes7tr2A==",
+  "dgSpecHash": "T4UHQmS8YEkbfUCsLnIrrojc4lY6a2Iew6EUlnOlGeB1q+HGT4vxbku4r3gcrj29zk11qRDagbJUdS5cVNjCFg==",
   "success": true,
-  "projectFilePath": "D:\\DotnetCore\\Commander\\Commander.csproj",
+  "projectFilePath": "D:\\dotnetcore\\commander\\Commander.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Programer_o2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
